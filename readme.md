@@ -1,4 +1,4 @@
-# 🌙 Malam Nisfu Sya'ban 1446 H Website
+#     🌙  Nisfu Sya'ban 1446 H
 
   
   [![GitHub stars](https://img.shields.io/github/stars/BIDZZ-RAWR/nisfu-syaban)](https://github.com/BIDZZ-RAWR/nisfu-syaban/stargazers)

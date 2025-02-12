@@ -1,7 +1,5 @@
 # 🌙 Malam Nisfu Sya'ban 1446 H Website
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BIDZZ-RAWR/nisfu-syaban/main/preview.png" alt=" DEMO \n\n">
   
   [![GitHub stars](https://img.shields.io/github/stars/BIDZZ-RAWR/nisfu-syaban)](https://github.com/BIDZZ-RAWR/nisfu-syaban/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/BIDZZ-RAWR/nisfu-syaban)](https://github.com/BIDZZ-RAWR/nisfu-syaban/network)
